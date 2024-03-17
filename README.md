@@ -1,6 +1,3 @@
-
-
-
 # Hi, I'm Aakarshan! 👋
 
 ## 💬 About me...
