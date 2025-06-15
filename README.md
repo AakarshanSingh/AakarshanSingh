@@ -1,9 +1,9 @@
 # Hi, I'm Aakarshan! 👋
 
 ## 💬 About me...
-- 💻 I am currently a student pursuing my BTech in IT ;
-- 📱 Currently learning about flutter;
-- 🔭 Future goals includes learning backend in Go;
+- 🎓 I have completed my graduation in Information Technology;
+- ⚙️ Currently learning Go (Golang);
+- 🤖 Future goal: Build tools using AI to automate tasks, like creating a smart assistant (something like Siri);
 
 ## 🛠 Skills
 
