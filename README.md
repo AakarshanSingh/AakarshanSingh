@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,py,flutter,git,kubernetes,docker,terraform,jenkins&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,py,flutter,git,kubernetes,docker,terraform,jenkins&perline=6)](https://skillicons.dev)
 
 
 ## 📫 How to reach me...
